@@ -1,2 +1,5 @@
 this is file1
 making changes in file1 via clone repo
+bjbfjbvj
+nkm
+gitignore
