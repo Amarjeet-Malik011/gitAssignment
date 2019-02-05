@@ -1,4 +1,1 @@
 this is file1
-this is second line
-third
-fourth
