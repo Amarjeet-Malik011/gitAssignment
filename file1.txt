@@ -3,3 +3,4 @@ making changes in file1 via clone repo
 bjbfjbvj
 nkm
 gitignore
+adding new line to file1.txt
